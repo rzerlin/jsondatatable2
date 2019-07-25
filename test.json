@@ -1,0 +1,38 @@
+[
+    {
+        "config_id" : "312saAs1", 
+        "parent_config_id" : "abc123",
+        "config_label" : "Jamaludin",
+        "config_desc" : "Indonesia",
+        "config_status" : "miss",
+        "config_type" : "high",
+        "is_config_active" : "y",
+        "create_time" : "2014-01-01T23:28:56.782Z",
+        "update_time" : "2014-01-01T23:28:56.782Z",
+        "delete_time" : "2014-01-01T23:28:56.782Z"
+    },
+    {
+        "config_id" : "312saAd2", 
+        "parent_config_id" : "abc123",
+        "config_label" : "Nurlaila",
+        "config_desc" : "Indonesia",
+        "config_status" : "miss",
+        "config_type" : "high",
+        "is_config_active" : "y",
+        "create_time" : "2014-01-01T23:28:56.782Z",
+        "update_time" : "2014-01-01T23:28:56.782Z",
+        "delete_time" : "2014-01-01T23:28:56.782Z"
+    },
+    {
+        "config_id" : "312saAq6", 
+        "parent_config_id" : "abc123",
+        "config_label" : "Saipudin",
+        "config_desc" : "Indonesia",
+        "config_status" : "past",
+        "config_type" : "high",
+        "is_config_active" : "y",
+        "create_time" : "2014-01-01T23:28:56.782Z",
+        "update_time" : "2014-01-01T23:28:56.782Z",
+        "delete_time" : "2014-01-01T23:28:56.782Z"
+    }
+]
